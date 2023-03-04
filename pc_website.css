@@ -1,0 +1,112 @@
+
+body{
+    font-family: 'kalam';
+    text-align: center;
+}
+*
+{
+    padding: 0;
+}
+.h1{
+    position: relative;
+    font-family: 'sacramento';
+    font-size: 60px;
+    top: 170px;
+    color: #fefbd8;
+}
+.h2{
+    position: relative;
+    top: 180px;
+}
+.about{
+    position: relative;
+    top: 600px;
+    font-size: 40px;
+    font-family: 'roboto';
+    font-weight: bold;
+}
+.p1{
+    font-size: 25px;
+    text-align: justify;
+}
+.p2{
+    font-size: 25px;
+    text-align: justify;
+}
+.coding{
+    position: relative;
+    left: 100px;
+    width: 50%;
+    margin: auto;
+    top: 650px;
+    font-size: 20px
+}
+.codingimg{
+    width: 40%;
+    float: left;
+    margin-right: 50px;
+}
+.gaming{
+    position: relative;
+    right: 100px;
+    width: 50%;
+    margin: auto;
+    top: 800px;
+    font-size: 20px
+}
+.gamingimg{
+    width: 40%;
+    float: right;
+    margin-left: 50px;
+}
+.mainbg{
+    position: absolute;
+    left: 10px;
+    width: 1510px;
+    top: 0px;
+
+}
+.upper{
+    position: relative;
+    background-color: #6cc1d5;
+    width: 1510px;
+    height: 850px;
+}
+
+.lower{
+    position: relative;
+    background-color: #a5904f;
+    width: 1510px;
+    height: 2000px;
+}
+
+.linkedin{
+    position: relative;
+    font-size: 30px;
+    top: 955px;
+    left: -200px;
+}
+.linkedinimg{
+    width: 5%;
+    left: -200px;
+}
+.github{
+    position: relative;
+    font-size: 30px;
+    top: 950px;
+    left: 0px;
+}
+.githubimg{
+    width: 5%;
+    left: 0px;
+}
+.leetcode{
+    position: relative;
+    font-size: 30px;
+    top: 960px;
+    left: 200px;
+}
+.leetcodeimg{
+    width: 5%;
+    left: 200px;
+}
